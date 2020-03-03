@@ -1,0 +1,22 @@
+name: flutter_bloc_calculator
+description: A simple calculator widget based on BLoC.
+version: 1.0.0
+author: HippoAppsXYZ <HippoApps.xyz@gmail.com>
+homepage: https://github.com/HippoAppsXYZ/flutter_bloc_calculator
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^3.2.0
+  equatable: ^1.0.0
+  auto_size_text: ^2.1.0
+  expressions: ^0.1.5
+  intl: ^0.16.1
+  flutter_grid_button: ^1.1.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
